@@ -1,5 +1,6 @@
 from random import shuffle
 
+
 class Baralho:
     def __init__(self):
         self.baralho = []
@@ -7,6 +8,5 @@ class Baralho:
         for c in range(4):
             for i in self.cartas_baralho:
                 self.baralho.append(i)
+        # Shuffling cards
         shuffle(self.baralho)
-        #Embaralhando o Baralho
-        
