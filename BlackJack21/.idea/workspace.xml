@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd1138f8-0d3e-44d6-aff4-e1f949ceb88d" name="Default Changelist" comment="" />
+    <list default="true" id="cd1138f8-0d3e-44d6-aff4-e1f949ceb88d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/deck/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/deck/blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/deck/card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/deck/deck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baralho.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplo/baralho.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplo/blackjack.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1VO6OozaIfXUBTd2sYD1rrMcZOC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,11 +38,39 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
-  <component name="RunManager">
-    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\douglas.ronchi\Documents\PythonDD\HBSIS\BlackJack21\exemplo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="blackjack (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProjectHBSIS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/deck" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/deck/blackjack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProjectHBSIS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -38,7 +82,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\douglas.ronchi\Documents\PythonDD\HBSIS\BlackJack21\exemplo\blackjack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="card" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProjectHBSIS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/deck" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/deck/card.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deck" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProjectHBSIS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/deck" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/deck/deck.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProjectHBSIS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -49,7 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.start" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.blackjack (1)" />
+        <item itemvalue="Python.deck" />
+        <item itemvalue="Python.card" />
+        <item itemvalue="Python.blackjack" />
       </list>
     </recent_temporary>
   </component>
@@ -83,38 +194,38 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1577128712613" />
-    <state width="1259" height="337" key="GridCell.Tab.0.bottom" timestamp="1577129264299">
+    <state width="1259" height="295" key="GridCell.Tab.0.bottom" timestamp="1577380608933">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="337" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1577129264299" />
-    <state width="1259" height="337" key="GridCell.Tab.0.center" timestamp="1577129264299">
+    <state width="1259" height="295" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1577380608933" />
+    <state width="1259" height="295" key="GridCell.Tab.0.center" timestamp="1577380608933">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="337" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1577129264299" />
-    <state width="1259" height="337" key="GridCell.Tab.0.left" timestamp="1577129264299">
+    <state width="1259" height="295" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1577380608933" />
+    <state width="1259" height="295" key="GridCell.Tab.0.left" timestamp="1577380608933">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="337" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1577129264299" />
-    <state width="1259" height="337" key="GridCell.Tab.0.right" timestamp="1577129264299">
+    <state width="1259" height="295" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1577380608933" />
+    <state width="1259" height="295" key="GridCell.Tab.0.right" timestamp="1577380608933">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="337" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1577129264299" />
-    <state width="1259" height="325" key="GridCell.Tab.1.bottom" timestamp="1577127523250">
+    <state width="1259" height="295" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1577380608933" />
+    <state width="1259" height="325" key="GridCell.Tab.1.bottom" timestamp="1577361495909">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1577127523250" />
-    <state width="1259" height="325" key="GridCell.Tab.1.center" timestamp="1577127523250">
+    <state width="1259" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1577361495909" />
+    <state width="1259" height="325" key="GridCell.Tab.1.center" timestamp="1577361495909">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1577127523250" />
-    <state width="1259" height="325" key="GridCell.Tab.1.left" timestamp="1577127523250">
+    <state width="1259" height="325" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1577361495909" />
+    <state width="1259" height="325" key="GridCell.Tab.1.left" timestamp="1577361495909">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1577127523250" />
-    <state width="1259" height="325" key="GridCell.Tab.1.right" timestamp="1577127523250">
+    <state width="1259" height="325" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1577361495909" />
+    <state width="1259" height="325" key="GridCell.Tab.1.right" timestamp="1577361495909">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1577127523250" />
+    <state width="1259" height="325" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1577361495909" />
     <state x="141" y="135" key="SettingsEditor" timestamp="1577128740346">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

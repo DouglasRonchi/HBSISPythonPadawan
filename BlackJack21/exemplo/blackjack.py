@@ -1,7 +1,7 @@
 # First Challenge BLACKJACK 21
 
 from random import randint
-from baralho import Baralho
+from exemplo.baralho import Baralho
 from time import sleep
 
 
@@ -13,6 +13,15 @@ class BlackJack(Baralho):
         self.resultado_jogador = 0
         self.resultado_dealer = 0
         self.jogada = False
+
+    def exibir_resultado(self):
+        print("DEALER")
+        print(self.dealer, end=' Total: ')
+        print(self.resultado_dealer)
+        print("JOGADOR")
+        print(self.jogador, end=' Total: ')
+        print(self.resultado_jogador, end=' | Falta para 21: ')
+        print(21 - self.resultado_jogador)
 
     def verificacao_blackjack(self):
         # Rules
@@ -79,12 +88,7 @@ class BlackJack(Baralho):
             self.pontuacao("JOGADOR")
 
         # Exibindo Resultados
-        print("DEALER")
-        print(self.dealer, end=' => ')
-        print(self.resultado_dealer)
-        print("JOGADOR")
-        print(self.jogador, end=' => ')
-        print(self.resultado_jogador)
+        self.exibir_resultado()
 
         # Rodadas Seguintes
         while True:
@@ -129,12 +133,7 @@ class BlackJack(Baralho):
                             sleep(1)
                             break
 
-                print("DEALER")
-                print(self.dealer, end=' => ')
-                print(self.resultado_dealer)
-                print("JOGADOR")
-                print(self.jogador, end=' => ')
-                print(self.resultado_jogador)
+                self.exibir_resultado()
 
 
 jogo = BlackJack()
