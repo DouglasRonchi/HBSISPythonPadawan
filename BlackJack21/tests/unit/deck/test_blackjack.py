@@ -15,13 +15,16 @@ class TestBlackJack(unittest.TestCase):
         blackjack = BlackJack()
         self.assertIsInstance(blackjack._deck, Deck)
 
-    def test_presentation_work_fine(self):
+    @patch('app.deck.blackjack.sleep')
+    @patch('app.deck.blackjack.print')
+    def test_presentation_work_fine(self, mock_sleep, mock_print):
         blackjack = BlackJack()
         action = blackjack.presentation()
         self.assertEqual(action, action)
 
+    @patch('app.deck.blackjack.print')
     @patch('app.deck.blackjack.input')
-    def test_if_get_a_card_in_a_round_works(self, mock_input):
+    def test_if_get_a_card_in_a_round_works(self, mock_input, mock_print):
         blackjack = BlackJack()
         result = blackjack._round()
         self.assertEqual(result, blackjack._score)
@@ -53,14 +56,26 @@ class TestBlackJack(unittest.TestCase):
 
         self.assertEqual(blackjack._score, 6)
 
-    def test_if_finish_show_blackjack_with_21_points(self):
+    @patch('app.deck.blackjack.sleep')
+    @patch('app.deck.blackjack.print')
+    def test_if_finish_show_blackjack_with_21_points(self, mock_sleep, mock_print):
         blackjack = BlackJack()
         blackjack._score = 21
         result = blackjack.finish()
         self.assertEqual(result, 'BLACKJACK')
 
-    def test_if_finish_show_youlose_with_more_than_21_points(self):
+    @patch('app.deck.blackjack.sleep')
+    @patch('app.deck.blackjack.print')
+    def test_if_finish_show_youlose_with_more_than_21_points(self, mock_sleep, mock_print):
         blackjack = BlackJack()
         blackjack._score = 22
         result = blackjack.finish()
         self.assertEqual(result, 'You Lose!')
+
+    @patch('app.deck.blackjack.input')
+    @patch('app.deck.blackjack.sleep')
+    @patch('app.deck.blackjack.print')
+    def test_play_should_run_a_new_game(self, mock_input, mock_sleep, mock_print):
+        blackjack = BlackJack()
+        blackjack.play()
+        assert blackjack._score >= 21
