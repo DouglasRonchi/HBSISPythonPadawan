@@ -1,7 +1,5 @@
 from random import shuffle
 
-from app.deck.card import Card
-
 
 class Deck:
     def __init__(self, cards: list):
@@ -12,6 +10,7 @@ class Deck:
 
     def shuffle_deck(self):
         shuffle(self._cards)
+        return self._cards.copy()
 
     def get_a_card(self):
         return self._cards.pop(0)

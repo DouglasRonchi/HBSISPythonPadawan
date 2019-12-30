@@ -46,33 +46,38 @@ class BlackJack(object):
         input("Aperte enter para virar uma carta...")
         card = self._deck.get_a_card()
         self._player_hand.append(card)
-        self._calculate_score(card)
+        self._calculate_score()
         print(f"Você virou a carta {card.name}")
         print(f"Pontuação: {self._score}")
+        return self._score
 
     def _is_done(self):
         if self._score >= 21:
             return True
 
-    def _calculate_score(self, card):
+    def _calculate_score(self):
         self._score = sum(map(lambda card: card.value, self._player_hand))
 
     def finish(self):
         print("Calculando", end="")
-        sleep(0.5)
+        sleep(0.3)
         print(".", end="")
-        sleep(0.5)
+        sleep(0.3)
         print(".", end="")
-        sleep(0.5)
+        sleep(0.3)
         print(".", end="")
-        sleep(0.5)
+        sleep(0.3)
         print("")
-        mensagem = "BLACKJACK" if self._score == 21 else "Você Perdeu..."
+        mensagem = "BLACKJACK" if self._score == 21 else "You Lose!"
 
         print("-" * 55)
         print(f"{mensagem::^55}")
         print("-" * 55)
         print(f"Pontuação total: {self._score}")
+        return mensagem
+
+
+
 
 
 
