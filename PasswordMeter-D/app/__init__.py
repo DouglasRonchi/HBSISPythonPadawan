@@ -5,9 +5,12 @@ from app.requirements.requirements import Requirements
 
 
 def start():
-    passwd = Password(input("Senha: "))
+    passwd = Password(input('Senha: '))
     add = Additions(passwd)
     ded = Dedutions(passwd)
     add.validate()
     ded.validate()
-    print(add.get_score_validated() - ded.get_score_validated())
+    add.show_score_total_points()
+    add.show_addition_references()
+    ded.show_dedution_references()
+    return True

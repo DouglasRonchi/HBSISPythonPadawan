@@ -2,8 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd1138f8-0d3e-44d6-aff4-e1f949ceb88d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app_password___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app_password_password_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app_requirements___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app_requirements_additions_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app_requirements_dedutions_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app_requirements_requirements_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/coverage_html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/jquery.ba-throttle-debounce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/jquery.hotkeys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/jquery.isonscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/keybd_closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/keybd_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/status.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/.coverage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/.idea/PasswordMeter-D.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/.idea/PasswordMeter-D.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/app/requirements/additions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/app/requirements/additions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/app/requirements/dedutions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/app/requirements/dedutions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/app/requirements/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/app/requirements/requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/tests/unit/requirements/test_additions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/tests/unit/requirements/test_additions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/tests/unit/requirements/test_requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/tests/unit/requirements/test_requirements.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +49,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1918" />
+    <option name="height" value="1034" />
+  </component>
   <component name="ProjectId" id="1VO6OozaIfXUBTd2sYD1rrMcZOC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,7 +68,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PasswordMeter-D" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -44,7 +78,7 @@
       <recent name="C:\Users\douglas.ronchi\Documents\PythonDD\HBSIS\BlackJack21\exemplo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python tests.Unittests in tests">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProjectHBSIS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,9 +158,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in tests" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python tests.Unittests for test_init.TestInit.test_if_init_works" />
-        <item itemvalue="Python tests.Unittests in tests" />
         <item itemvalue="Python tests.Unittests for tests.unit.deck.test_blackjack.TestBlackJack" />
         <item itemvalue="Python tests.Unittests for tests.unit.deck.test_blackjack.TestBlackJack.test_if_get_a_card_in_a_round_works" />
       </list>
@@ -157,6 +191,17 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_tests - 2019.12.30 at 19h 25m 09s.xml">
+      <configuration name="Unittests in tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tests - 2019.12.30 at 19h 25m 15s.xml">
+      <configuration name="Unittests in tests" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1096" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577707894685">
       <screen x="0" y="0" width="1280" height="984" />
@@ -166,42 +211,42 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="530" height="466" key="DebuggerActiveHint/0.0.1280.984@0.0.1280.984" timestamp="1577710499233" />
-    <state x="420" y="247" key="FileChooserDialogImpl" timestamp="1577704505506">
+    <state x="420" y="247" key="FileChooserDialogImpl" timestamp="1577734132367">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1577704505506" />
-    <state width="1259" height="367" key="GridCell.Tab.0.bottom" timestamp="1577732129375">
+    <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1577734132367" />
+    <state width="1259" height="325" key="GridCell.Tab.0.bottom" timestamp="1577734133277">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="367" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1577732129375" />
-    <state width="1259" height="367" key="GridCell.Tab.0.center" timestamp="1577732129375">
+    <state width="1259" height="325" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1577734133277" />
+    <state width="1259" height="325" key="GridCell.Tab.0.center" timestamp="1577734133277">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="367" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1577732129375" />
-    <state width="1259" height="367" key="GridCell.Tab.0.left" timestamp="1577732129375">
+    <state width="1259" height="325" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1577734133277" />
+    <state width="1259" height="325" key="GridCell.Tab.0.left" timestamp="1577734133277">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="367" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1577732129375" />
-    <state width="1259" height="367" key="GridCell.Tab.0.right" timestamp="1577732129375">
+    <state width="1259" height="325" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1577734133277" />
+    <state width="1259" height="325" key="GridCell.Tab.0.right" timestamp="1577734133277">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="367" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1577732129375" />
-    <state width="1259" height="325" key="GridCell.Tab.1.bottom" timestamp="1577710629543">
+    <state width="1259" height="325" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1577734133277" />
+    <state width="1259" height="325" key="GridCell.Tab.1.bottom" timestamp="1577734133277">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1577710629543" />
-    <state width="1259" height="325" key="GridCell.Tab.1.center" timestamp="1577710629543">
+    <state width="1259" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1577734133277" />
+    <state width="1259" height="325" key="GridCell.Tab.1.center" timestamp="1577734133277">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1577710629543" />
-    <state width="1259" height="325" key="GridCell.Tab.1.left" timestamp="1577710629543">
+    <state width="1259" height="325" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1577734133277" />
+    <state width="1259" height="325" key="GridCell.Tab.1.left" timestamp="1577734133277">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1577710629543" />
-    <state width="1259" height="325" key="GridCell.Tab.1.right" timestamp="1577710629543">
+    <state width="1259" height="325" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1577734133277" />
+    <state width="1259" height="325" key="GridCell.Tab.1.right" timestamp="1577734133277">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1577710629543" />
+    <state width="1259" height="325" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1577734133277" />
     <state x="141" y="135" key="SettingsEditor" timestamp="1577703798470">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
