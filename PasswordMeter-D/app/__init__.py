@@ -5,7 +5,7 @@ from app.requirements.requirements import Requirements
 
 
 def start():
-    passwd = Password(input('Senha: '))
+    passwd = Password('StrongPassword')
     add = Additions(passwd)
     ded = Dedutions(passwd)
     add.validate()

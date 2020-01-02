@@ -2,36 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd1138f8-0d3e-44d6-aff4-e1f949ceb88d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app___init___py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app_password___init___py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app_password_password_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app_requirements___init___py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app_requirements_additions_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app_requirements_dedutions_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/app_requirements_requirements_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/coverage_html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/jquery.ba-throttle-debounce.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/jquery.hotkeys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/jquery.isonscreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/jquery.tablesorter.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/keybd_closed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/keybd_open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/status.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PasswordMeter-D/htmlcov/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/.coverage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/.idea/PasswordMeter-D.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/.idea/PasswordMeter-D.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/app/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/app/requirements/additions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/app/requirements/additions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/app/requirements/dedutions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/app/requirements/dedutions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/app/requirements/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/app/requirements/requirements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/tests/unit/requirements/test_additions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/tests/unit/requirements/test_additions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PasswordMeter-D/tests/unit/requirements/test_requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordMeter-D/tests/unit/requirements/test_requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/app___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/app_forca_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/app_frutas_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/coverage_html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/jquery.ba-throttle-debounce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/jquery.hotkeys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/jquery.isonscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/keybd_closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/keybd_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/status.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/htmlcov/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/tests/unit/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/tests/unit/test_forca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrutasForca/tests/unit/test_frutas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrutasForca/app/forca.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FrutasForca/app/forca.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

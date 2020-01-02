@@ -15,11 +15,15 @@ class Forca(Frutas):
         shuffle(self._frutas)
         self.fruta_sorteada = self._frutas[0]
 
-    def jogar(self):
+    def montar_dica(self):
         for i in range(len(self.fruta_sorteada)):
             self.dica.append('__')
         print("Dica:")
         print(self.dica)
+        return self.dica
+
+    def jogar(self):
+        self.montar_dica()
         while self.erros < 5:
             if "__" not in self.dica:
                 self._winner()
