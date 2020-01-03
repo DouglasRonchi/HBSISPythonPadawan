@@ -1,9 +1,8 @@
-from app.forca import Forca
-from app.frutas import Frutas
+from app.game.game import Game
 
 
 def start():
-    frutas = ['banana', 'jabuticaba', 'pitanga', 'mirtilo', 'morango', 'abacaxi', 'cereja']
-    forca = Forca(frutas)
-    forca.sortear_fruta()
-    forca.jogar()
+    game = Game()
+    game.get_a_random_fruit()
+    game.mount_tip()
+    game.start_game()
