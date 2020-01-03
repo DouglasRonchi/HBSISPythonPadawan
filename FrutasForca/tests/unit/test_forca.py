@@ -78,6 +78,14 @@ class TestForca(unittest.TestCase):
         forca.sortear_fruta()
         forca.jogar()
 
+    # @patch('app.forca.input')
+    # def test_se_jogar_esta_funcionando_quando_ganha(self, mock_input):
+    #     mock_input.side_effect = ('a', 'b', 'c', 'd', 'e')
+    #     lista = ['abcde']
+    #     forca = Forca(lista)
+    #     forca.sortear_fruta()
+    #     forca.jogar()
+
     @patch('app.forca.print')
     @patch('app.forca.input',
            lambda letra: ascii_letters[randint(5, 15)])

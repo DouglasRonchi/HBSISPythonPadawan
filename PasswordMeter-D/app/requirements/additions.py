@@ -116,4 +116,3 @@ class Additions(Requirements):
         lista['count'] = contador
         lista['value'] = contador * 2
         return lista
-

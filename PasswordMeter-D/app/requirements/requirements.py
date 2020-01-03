@@ -9,10 +9,10 @@ class Requirements:
         self._score = 0
         self._requirements = 0
 
-    def get_score_validated(self):
+    def get_score_validated(self) -> int:
         return self._score
 
-    def show_score_total_points(self):
+    def show_score_total_points(self) -> None:
         if self._score > 100:
             rate = '100 %'
         else:
