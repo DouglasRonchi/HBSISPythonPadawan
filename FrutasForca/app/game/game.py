@@ -38,8 +38,9 @@ class Game(BucketOfFruits):
         if choice.upper() in self.tip:
             _show("You already tapped this letter!")
             self.chances -= 1
+            return True
 
-    def _has_letter(self, choice: str) -> None:
+    def _has_letter(self, choice: str) -> bool:
         if choice in self.secret_fruit.get_name():
             count = 0
             for letter in self.secret_fruit.get_name():
@@ -47,6 +48,8 @@ class Game(BucketOfFruits):
                     self.tip[count] = choice.upper()
                     self.success = True
                 count += 1
+            if self.success:
+                return True
 
     def start_game(self) -> None:
         while self._not_lose():
