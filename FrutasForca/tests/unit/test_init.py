@@ -1,8 +1,11 @@
 import unittest
+from unittest.mock import patch
 
 from app import start
 
 
 class TestInit(unittest.TestCase):
-    def test_init(self):
-        start()
+    @patch('app.game.game.print')
+    def test_init(self, mock_print):
+        with patch('app.game.game.input', side_effect=('y', 'y', 'y', 'y', 'y')):
+            start()

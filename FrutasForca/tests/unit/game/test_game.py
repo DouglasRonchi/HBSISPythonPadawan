@@ -51,7 +51,7 @@ class TestGame(unittest.TestCase):
         game.secret_fruit = Mock()
         game.secret_fruit.get_name.return_value = 'a'
         result = game._has_letter('a')
-        self.assertEqual(result, True)
+        self.assertEqual(result, None)
 
     @patch('app.game.game.print')
     def test_start_game(self, mock_print):

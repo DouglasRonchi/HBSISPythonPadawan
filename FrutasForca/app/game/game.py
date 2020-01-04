@@ -40,16 +40,19 @@ class Game(BucketOfFruits):
             self.chances -= 1
             return True
 
-    def _has_letter(self, choice: str) -> bool:
+    def _has_letter(self, choice: str) -> None:
         if choice in self.secret_fruit.get_name():
-            count = 0
-            for letter in self.secret_fruit.get_name():
-                if choice == letter:
-                    self.tip[count] = choice.upper()
-                    self.success = True
-                count += 1
-            if self.success:
-                return True
+            self._put_letter_on_tip(choice)
+
+    def _put_letter_on_tip(self, choice: str) -> bool:
+        count = 0
+        for letter in self.secret_fruit.get_name():
+            if choice == letter:
+                self.tip[count] = choice.upper()
+                self.success = True
+            count += 1
+        if self.success:
+            return True
 
     def start_game(self) -> None:
         while self._not_lose():
