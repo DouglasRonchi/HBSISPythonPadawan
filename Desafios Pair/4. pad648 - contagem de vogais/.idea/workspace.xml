@@ -27,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../5. pad654 - tempo e distancia entre navios em movimento" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -90,9 +90,9 @@
     </history-entry>
   </component>
   <component name="WindowStateProjectService">
-    <state x="420" y="248" key="FileChooserDialogImpl" timestamp="1578392248135">
+    <state x="420" y="248" key="FileChooserDialogImpl" timestamp="1578407727801">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1578392248135" />
+    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1578407727801" />
   </component>
 </project>

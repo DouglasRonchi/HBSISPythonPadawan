@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cefa7379-5e5e-4eaf-8ecc-b4623f5b9d12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Desafios Pair.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1. pad650 - ordem decrescente/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1. pad650 - ordem decrescente/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10. pad662 - teste de qi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10. pad662 - teste de qi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10. pad662 - teste de qi/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/../10. pad662 - teste de qi/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. pad647 - resmungando/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2. pad647 - resmungando/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. pad649 - palavra mais curta/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3. pad649 - palavra mais curta/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/4. pad648 - contagem de vogais.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/4. pad648 - contagem de vogais.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/5. pad654 - tempo e distancia entre navios em movimento.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/5. pad654 - tempo e distancia entre navios em movimento.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pad654.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pad654.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../6. pad646 - obter o personagem do meio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">

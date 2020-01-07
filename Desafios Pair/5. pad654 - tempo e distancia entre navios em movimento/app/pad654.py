@@ -15,7 +15,8 @@ Eles serão passados ​​para sua função como números inteiros entre 0 e 35
 Se a rede nunca quebrar, retorne float('inf')
 '''
 
-from math import sqrt
+import math
+
 # 1 grau = 60 min
 
 # find_time_to_break(0, 90) => 18.86
@@ -26,17 +27,12 @@ distance = 0
 fishing_net_breaks_at = 64
 speed = 150
 
-def find_time_to_break(bearing_a: int, bearing_b: int) -> float:
-    for minuto in range(60):
-        first_distance = bearing_a * minuto
-        second_distance = bearing_b * minuto
-        difference = sqrt(second_distance**2 + first_distance**2)
-        print(difference)
+
+def find_time_to_break(bearing_a: int, bearing_b: int):
+    
+
+
 
 
 
 find_time_to_break(0, 90)
-
-
-
-
