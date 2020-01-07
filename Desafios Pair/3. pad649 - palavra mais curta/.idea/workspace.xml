@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee0d81a0-8d35-4bcd-8690-603aff4f5f37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Desafios Pair.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1. pad650 - ordem decrescente/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1. pad650 - ordem decrescente/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10. pad662 - teste de qi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10. pad662 - teste de qi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10. pad662 - teste de qi/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/../10. pad662 - teste de qi/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. pad647 - resmungando/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2. pad647 - resmungando/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/4. pad648 - contagem de vogais.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/4. pad648 - contagem de vogais.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/../4. pad648 - contagem de vogais/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7. pad653 - planta em crescimento/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7. pad653 - planta em crescimento/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7. pad653 - planta em crescimento/app/pad653.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7. pad653 - planta em crescimento/app/pad653.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7. pad653 - planta em crescimento/tests/unit/test_pad_653.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7. pad653 - planta em crescimento/tests/unit/test_pad_653.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +29,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4. pad648 - contagem de vogais" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../6. pad646 - obter o personagem do meio" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -128,9 +117,9 @@
     </history-entry>
   </component>
   <component name="WindowStateProjectService">
-    <state x="420" y="248" key="FileChooserDialogImpl" timestamp="1578392240010">
+    <state x="420" y="248" key="FileChooserDialogImpl" timestamp="1578393629208">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1578392240010" />
+    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1578393629208" />
   </component>
 </project>
