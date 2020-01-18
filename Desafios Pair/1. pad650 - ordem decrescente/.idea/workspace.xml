@@ -1,94 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a0e9bfb-baa7-4ece-89fa-1fe8d8040bc8" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="7a0e9bfb-baa7-4ece-89fa-1fe8d8040bc8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/1. pad650 - ordem decrescente.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1. pad650 - ordem decrescente.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. pad649 - palavra mais curta/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3. pad649 - palavra mais curta/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. pad646 - obter o personagem do meio/.idea/6. pad646 - obter o personagem do meio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../6. pad646 - obter o personagem do meio/.idea/6. pad646 - obter o personagem do meio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. pad646 - obter o personagem do meio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../6. pad646 - obter o personagem do meio/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. pad646 - obter o personagem do meio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../6. pad646 - obter o personagem do meio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. pad646 - obter o personagem do meio/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../6. pad646 - obter o personagem do meio/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. pad646 - obter o personagem do meio/app/pad646.py" beforeDir="false" afterPath="$PROJECT_DIR$/../6. pad646 - obter o personagem do meio/app/pad646.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7. pad653 - planta em crescimento/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7. pad653 - planta em crescimento/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7. pad653 - planta em crescimento/app/pad653.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7. pad653 - planta em crescimento/app/pad653.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7. pad653 - planta em crescimento/tests/unit/test_pad_653.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7. pad653 - planta em crescimento/tests/unit/test_pad_653.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/pad650_ordem_decrescente.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/unit/test_pad_650.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Pipfile" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="1" />
-    <option name="width" value="1920" />
-    <option name="height" value="1034" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="1. pad650 - ordem decrescente" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1. pad650 - ordem decrescente" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1. pad650 - ordem decrescente" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1. pad650 - ordem decrescente" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1. pad650 - ordem decrescente" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1. pad650 - ordem decrescente" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="unit" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1W3xi7grUGLnnOthlZOqaLcg1Xf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2. pad647 - resmungando" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4. pad648 - contagem de vogais" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Unittests for test_pad_650.TestPad650.test_descending_order_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -111,6 +55,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -129,52 +85,10 @@
       <configuration name="Unittests for test_pad_650.TestPad650.test_descending_order_test" configurationId="tests" />
     </history-entry>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-1" y="-1" width="1922" height="1038" extended-state="6" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960423" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Code Cleaner" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32905483" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Pipfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/pad650_ordem_decrescente.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/unit/test_pad_650.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="420" y="248" key="FileChooserDialogImpl" timestamp="1578393816852">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1578393816852" />
   </component>
 </project>
